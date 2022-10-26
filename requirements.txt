@@ -1,5 +1,0 @@
-import pandas as pd
-from matplotlib import pyplot
-from pandas.plotting import scatter_matrix
-from sklearn import linear_model, metrics, model_selection
-import matplotlib.pyplot as plt
